@@ -155,7 +155,7 @@
     <div class="cv-container">
         <!-- Header Section -->
         <header class="header">
-            <h1>John Doe</h1>
+            <h1>Salim Lemma</h1>
             <p>Frontend Developer & UI/UX Designer</p>
             <div class="contact-info">
                 <div class="contact-item">
@@ -166,7 +166,9 @@
                 </div>
                 <div class="contact-item">
                     <i>📍</i> Ethiopia, Addis Ababa
-                    <i></i> https://github.com/salimlemma-sys/Xsalim/edit/main/README.md
+                    <i>
+                        
+                    </i> https://github.com/salimlemma-sys/Xsalim/edit/main/README.md
                 </div>
                 <div class="contact-item">
                     <i>🔗</i> linkedin.com/in/salim.lemma
