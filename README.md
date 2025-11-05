@@ -166,6 +166,7 @@
                 </div>
                 <div class="contact-item">
                     <i>📍</i> Ethiopia, Addis Ababa
+                    <i></i> https://github.com/salimlemma-sys/Xsalim/edit/main/README.md
                 </div>
                 <div class="contact-item">
                     <i>🔗</i> linkedin.com/in/salim.lemma
